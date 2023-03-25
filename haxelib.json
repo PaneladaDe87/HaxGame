@@ -1,0 +1,9 @@
+{
+    "name": "HaxGame",
+    "description": "This is for 3D games in Haxe",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "outrorepositorio": ">=1.0.0"
+    }
+}
